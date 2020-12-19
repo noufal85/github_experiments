@@ -36,3 +36,8 @@ git init
 git add *
 
 ```
+
+git create a new branch
+```
+git branch -b branch01
+```
