@@ -26,6 +26,7 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 Useful Git Commands
 -------------------
+
 when you create a new repo 
 ```
 git init
