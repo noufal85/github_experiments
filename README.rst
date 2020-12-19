@@ -26,6 +26,6 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 Useful Git Commands
 -------------------
-```shell
+``shell
 git init
-```
+``
