@@ -28,11 +28,8 @@ Useful Git Commands
 -------------------
 
 when you create a new repo 
-
-
 ```
 git init 
-
 git add *
 
 ```
@@ -40,4 +37,5 @@ git add *
 git create a new branch
 ```
 git branch -b branch01
+```
 ```
