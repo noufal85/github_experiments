@@ -8,7 +8,4 @@ def main():
     '''
     print("changes added from main")
 
-def added_to_be_removed():
-    print('hey , This will be removed')
-
 
